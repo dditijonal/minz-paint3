@@ -1,0 +1,13 @@
+{
+  "name": "minz-paint3",
+  "version": "1.0.0",
+  "description": "A collaborative painting web application",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
+}
